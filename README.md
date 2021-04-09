@@ -6,15 +6,15 @@
   ☕ Code and coffee
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ramondcsilva/semana-omnistack-5.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ramondcsilva/semana-omnistack-05.svg">
 
-  <a href="https://www.codacy.com/app/ramondcsilva/semana-omnistack-5">
+  <a href="https://www.codacy.com/app/ramondcsilva/semana-omnistack-05">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ramondcsilva/semana-omnistack-5.svg">
-  <a href="https://github.com/ramondcsilva/semana-omnistack-5/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ramondcsilva/semana-omnistack-5.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ramondcsilva/semana-omnistack-05.svg">
+  <a href="https://github.com/ramondcsilva/semana-omnistack-05/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ramondcsilva/semana-omnistack-05.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
