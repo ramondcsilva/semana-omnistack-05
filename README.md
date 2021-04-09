@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  ☕ Code and coffee
+  ☕ Semana OmniStack 05
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ramondcsilva/semana-omnistack-05.svg">
@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
+O TwiFake foi projetado para desenvolvedores compartilharem de for rápida, pequenos problemas que passam no dia a dia.
