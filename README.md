@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Twifake" title="#delicinha" src=".github/twitter.svg" width="100px" />
+    <img alt="Twifake" title="#delicinha" src=".github/twitter.svg" width="80px" />
 </h1>
 
 <h4 align="center">
