@@ -2,7 +2,7 @@
 Projeto criado na Semana Omnistack 05, um clone básico do twitter
 
 <h1 align="center">
-    <img alt="Twifake" title="#delicinha" src=".github/logo.png" width="250px" />
+    <img alt="Twifake" title="#delicinha" src="" width="250px" />
 </h1>
 
 <h4 align="center">
